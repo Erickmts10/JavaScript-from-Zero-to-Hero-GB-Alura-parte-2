@@ -10,7 +10,7 @@ Exercicios desenvolvidos com a proposta de praticar os conceitos de lógica de p
 
 <h3>:heavy_check_mark:Tecnologias utilizadas</h3>
 
-:yellow_circle:JavaScript;
+:yellow_circle:JavaScript; Cavas;
 
 <h3>:man:Desenvolvedor</h3>
 <p>Erick Matheus</p>
